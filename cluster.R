@@ -25,6 +25,28 @@ chems_reduced <- chems %>% select(!c(DTXSID,count, true_chemname))
 # create a distance matrix of the reduced dataframe
 D <- vegdist(as.matrix(chems_reduced),method = "jaccard")
 
+#make a dataframe of the matrix and write it to a csv
+D_df <- data.frame(as.matrix(D))
+
+colnames(D_df) <- ids
+rownames(D_df) <- ids
+
+write.csv(D_df, "derived_data/distance_matrix.csv")
+
+#melt the matrix dataframe, fitler it to omit self correlated values, and write it to a csv
+D_df_melt <- D_df %>% mutate(DTXSID_1=rownames(D_df)) %>% as_tibble() %>% 
+  pivot_longer(!DTXSID_1, names_to = "DTXSID_2", values_to = "distance")%>% 
+  left_join(name_ref, by=c("DTXSID_1"="DTXSID"))%>% 
+  left_join(name_ref, by=c("DTXSID_2"="DTXSID"), suffix = c("_1","_2")) %>% 
+  select(DTXSID_1, true_chemname_1, DTXSID_2, true_chemname_2, distance) %>% 
+  filter(DTXSID_1!=DTXSID_2) %>% 
+  arrange(distance)
+
+
+write_csv(D_df_melt, "derived_data/melted_filtered_distance_matrix.csv")
+
+
+
 
 dev.off()
 
