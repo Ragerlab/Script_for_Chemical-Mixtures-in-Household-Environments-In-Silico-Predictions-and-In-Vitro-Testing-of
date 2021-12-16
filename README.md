@@ -1,4 +1,11 @@
-## Scripts
+## Script_for_Chemical-Mixtures-in-Household-Environments-In-Silico-Predictions-and-In-Vitro-Testing-of-Potential-Joint-Toxicities-in-Human-Liver-Cells
+Script associated with the manuscript titled 'Chemical Mixtures in Household Environments: In Silico Predictions and In Vitro Testing of Potential Joint Toxicities in Human Liver Cells' in preparation for submission.
+
+![Cluster5_HeatMapImage](https://user-images.githubusercontent.com/72747901/146393635-815c7716-b7f1-4052-9e00-f4a14a46e9bc.png)
+
+
+
+## Script descriptions
 
 **data_prep.py**- Reads in the list of ToxCast chemicals of interest from **TopChemicals_102820.xlsx** and the chemicals and associated list keyword sets from  **all_factotum_DTXSID_listPresence_2020-09-23.csv** (file from ChemExpodb). DTXSIDs in both datasets are identified then the keywords sets for those DTXSIDs are identified. The resulting dataframe of overlapping DTXSIDs and corresponding keyword sets are filtered according to the keyword status, as is recorded in **keyword_bins.csv**. A status of 1 indicates that a chemical record with that particular keyword should be dropped in its entirety. A status of 2 indicates that individual keyword should be omitted from the set, but the rest of the keywords in the set should retain their association with the DTXSID. After applying these filters, the appropriate bin is mapped to the DTXSIDs based on the keyword. The keyword-bin mapping can be found in **keyword_bins.csv**. A binary dataframe is produced where 1 indicates that there is an association between the DTXSID and the bin, and 0 indicates there is not an association between the DTXSID and the bin. The dataframe is written to the file **presence_absence_binary_df_DTXSID.csv**. Additionally, a reference file **ChemExpodb_name_DTXSID_ref.csv** is produced which maps the true_chemname to the DTXSID, according to ChemExpodb. Both of these files are written to the derived_data folder.
 
