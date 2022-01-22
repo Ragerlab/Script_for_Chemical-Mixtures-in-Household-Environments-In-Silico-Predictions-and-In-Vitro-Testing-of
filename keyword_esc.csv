@@ -1,0 +1,141 @@
+﻿Exposure_Source_Cat,Keyword,Definition,Kind,Status
+Active_ingredient_in_products,active_ingredient,active ingredients in a product,Modifiers,0
+Human_food_from_animals,animal_products,"Meat, poultry, fish and eggs (includes honey)",Foods & Agriculture,0
+Crops_and_animal_feed,animal_feed,"Includes hay, alfalfa hay, and pastures/rangeland",Foods & Agriculture,0
+Crops_and_animal_feed,cotton,"of or related to the growing of cotton, or processed cotton used as a textile for consumer goods",Foods & Agriculture,0
+Crops_and_animal_feed,general_crops,"Misc. crops, including sunflowers",Foods & Agriculture,0
+Air_near_source,air,air - media specific to the chemical presence,Media,0
+Artificial_liquids,artificial_saliva,artificial saliva - media specific to the chemical presence,Media,0
+Artificial_liquids,artificial_sweat,artificial sweat - media specific to the chemical presence,Media,0
+Arts_and_crafts_or_office_supplies,Arts and crafts/Office supplies,general arts and crafts or office supplies which can not be classified into a more refined category,PUC - formulation,0
+Arts_and_crafts_or_office_supplies,Arts and crafts/Office supplies - body paint,"products placed on the skin for decorative purposes (body paints, markers, glitters, play cosmetics, Halloween cosmetics, and henna)",PUC - formulation,0
+Arts_and_crafts_or_office_supplies,Arts and crafts/Office supplies - body paint - tattoo ink,inks used for permanent tattoos,PUC - formulation,0
+Arts_and_crafts_or_office_supplies,Arts and crafts/Office supplies - children's art and toys,General children's art supplies and toys which can not be classified into a more refined category,PUC - formulation,0
+Arts_and_crafts_or_office_supplies,Arts and crafts/Office supplies - children's art and toys - crayons,wax crayons for coloring or illustration,PUC - formulation,0
+Arts_and_crafts_or_office_supplies,Arts and crafts/Office supplies - children's art and toys - modeling clay,soft modeling compounds,PUC - formulation,0
+Arts_and_crafts_or_office_supplies,Arts and crafts/Office supplies - fabric treatment and dye,Fabric treatments or dyes which can not be assigned to a more refined category,PUC - formulation,0
+Arts_and_crafts_or_office_supplies,Arts and crafts/Office supplies - general arts and crafts supplies,arts and crafts supplies which can not be assigned to a more refined category,PUC - formulation,0
+Arts_and_crafts_or_office_supplies,Arts and crafts/Office supplies - general arts and crafts supplies - arts and crafts adhesive,"glue sticks, glitter glues, fabric glues, craft glue, spray mounts, stencil sprays, and other adhesives used for primarily craft purposes",PUC - formulation,0
+Arts_and_crafts_or_office_supplies,Arts and crafts/Office supplies - general arts and crafts supplies - arts and crafts paint,"paints (including acrylic and enamel), colorants (materials that color solid objects), and pigments primarily used for craft purposes",PUC - formulation,0
+Arts_and_crafts_or_office_supplies,Arts and crafts/Office supplies - general arts and crafts supplies - flocking,"products used to create textured or fiber covered surfaces, including artificial snow",PUC - formulation,0
+Arts_and_crafts_or_office_supplies,Arts and crafts/Office supplies - home office - pens and markers,writing utensils containing liquid or gel ink,PUC - formulation,0
+Home_maintenance_ and_building_materials,Construction and building materials,"Materials used for construction (e.g. flooring, tile, sinks, bathtubs, mirrors, wall materials/drywall, wall-to-wall carpets, insulation, playground surfaces); includes  semi-permanent fixtures such as faucets and light fixtures",PUC - article,0
+Home_maintenance_ and_building_materials,Home maintenance - adhesives and adhesive removers - multipurpose adhesive,"general purpose repair adhesives including all purpose glues, super glue, and epoxies; not including wood glues",PUC - formulation,0
+Home_maintenance_ and_building_materials,Home maintenance - adhesives and adhesive removers - wood adhesive,adhesives specifically designated for gluing wooden surfaces together,PUC - formulation,0
+Home_maintenance_ and_building_materials,Home maintenance - caulk/sealant,liquid or gels designed to seal cracks or fill cracks and depressions on hard surfaces,PUC - formulation,0
+Home_maintenance_ and_building_materials,Home maintenance - plumbing,"miscellaneous plumbing repair products (putties, tapes, cements)",PUC - formulation,0
+Chemicals_that_emit_or_offgas,emissions,release of a chemical from a source to an environmental medium; includes off-gassing,General use,0
+Children_products_and_toys,Toys and children's products,"Toys and articles intended for use by children (not including formulations) (e.g. stuffed toys, blankets, games, baby bottles and pacifiers, dolls)",PUC - article,0
+Children_products_and_toys,children,"pertaining to, or intended for use specifically by children",Subpopulation,0
+Household_care_and_cleaning_products,Cleaning products and household care,Cleaning and household care products that can not be placed in a more refined category,PUC - formulation,0
+Household_care_and_cleaning_products,Cleaning products and household care - air freshener,"home air fresheners, including candles with a fragrance",PUC - formulation,0
+Household_care_and_cleaning_products,Cleaning products and household care - carpet and floor,Household carpet and floor cleaning products that can not be assigned to a more refined category,PUC - formulation,0
+Household_care_and_cleaning_products,Cleaning products and household care - carpet and floor - carpet cleaner,"carpet cleaning products that may be used directly (or require dilution), includes solutions that may be used by hand or in mechanical carpet cleaners",PUC - formulation,0
+Household_care_and_cleaning_products,Cleaning products and household care - carpet and floor - floor polish,products that impart a shine to solid floors,PUC - formulation,0
+Household_care_and_cleaning_products,Cleaning products and household care - dishwasher and dishes,"cleaning products used in the dishwasher or on dishes, which do not fit into a more refined category",PUC - formulation,0
+Household_care_and_cleaning_products,Cleaning products and household care - dishwasher and dishes - automatic dishwashing additive,"products used in automatic dishwashers other than detergents (rinse aids, spot removers, and dishwasher cleaners/scale or rust removers)",PUC - formulation,0
+Household_care_and_cleaning_products,Cleaning products and household care - general household cleaning,"cleaning products for general household cleaning, which do not fit into a more refined category",PUC - formulation,0
+Household_care_and_cleaning_products,Cleaning products and household care - general household cleaning - surface cleaner,"products used to clean hard surfaces in the home, including kitchen specific hard surface cleaners",PUC - formulation,0
+Household_care_and_cleaning_products,Cleaning products and household care - laundry and fabric treatment,Cleaning or care products for laundry and fabric treatment which do not fit into a more refined category,PUC - formulation,0
+Household_care_and_cleaning_products,Cleaning products and household care - laundry and fabric treatment - fabric deodorizer,fabric deodorizers,PUC - formulation,0
+Household_care_and_cleaning_products,Cleaning products and household care - laundry and fabric treatment - fabric softener,products used to improve tactile properties of fabrics that are added to the rinse water of clothes washers (excluding dryer sheets),PUC - formulation,0
+Household_care_and_cleaning_products,Cleaning products and household care - laundry and fabric treatment - laundry stain remover,stain removers or laundry pre-treatment products,PUC - formulation,0
+Household_care_and_cleaning_products,Cleaning products and household care - lime remover,"products used to remove lime or scale from hard surfaces, excludes dishwasher related products",PUC - formulation,0
+Household_care_and_cleaning_products,Cleaning products and household care - oven - oven cleaner,"products used to clean grills, ovens, or range cooktops",PUC - formulation,0
+Household_care_and_cleaning_products,Cleaning products and household care - shoes,Products related to the care of footwear which do not fit into a more refined category,PUC - formulation,0
+Household_care_and_cleaning_products,Cleaning products and household care - shoes - shoe polish or protectant,"products applied to footwear to color, polish, clean, or add a protective surface",PUC - formulation,0
+Bottled_and_finished_water_for_consumption,drinking_water,"water intended for drinking, or related to drinking water; includes bottled water, finished water from drinking water treatment plants, and untreated water that has been denoted as a drinking source",Media,0
+Electronics,Cons electronics mech appliances and machinery,"Including small and large consumer electronics appliances (e.g. refrigerator, washing machine, vacuum cleaner, computer, phone, smoke detector, electric tools, lamps); includes small electronics with direct personal contact such as massagers; excludes electronics specifically intended for use by children; excludes electronics with direct food contact (e.g. electric blender)",PUC - article,0
+Food,baby_food,Jarred and canned foods intended for consumption by infants and toddlers (includes formula),Foods & Agriculture,0
+Food,dairy,milk and foods produced from or containing milk,Foods & Agriculture,0
+Food,fruits_and_vegetables,"includes fresh, canned and frozen forms, as well as juices and sauces (e.g. applesauce), excludes forms intended for consumption by young children (i.e. baby foods); includes green beans and peas",Foods & Agriculture,0
+Food,general_foods,unspecified foods or beverages for human consumption; these may be crops (e.g. raw fruits or vegetables) or processed goods,Foods & Agriculture,0
+Food,grain,excludes soybean grain (included with legumes'; excludes corn grain (included with fruits and vegetables),Foods & Agriculture,0
+Food,legumes,"Legumes, excludes green beans and peas (included with fruits and vegetables); excludes peanuts and peanut butter (included with nuts)",Foods & Agriculture,0
+Food,nuts,includes peanuts and nut butters,Foods & Agriculture,0
+Food_additive,food_additive,,Foods & Agriculture,0
+Food_additive,Substances Added to Food (formerly EAFUS) (2/2019),U.S. FDA Substances Added to Food inventory (formerly known as 'Everything Added to Foods in the United States (EAFUS)' (version of list updated 2/8/2019),Specialty list,0
+Substances_in_contact_with_food,Food contact items,"articles intended for food contact, including food-contact packaging (e.g. glasses, plates, pots/pans, food storage containers, cloth napkins and placemats, cutlery, paper plates, and plastic utensils, take-out containers, plastic wrap and foil; includes small electronics with direct food contact (e.g. blender)",PUC - article,0
+Substances_in_contact_with_food,CEDI,The U.S. FDA Cumulative Estimated Daily Intake database of publicly available cumulative estimated daily intakes (CEDIs) for a large number of food contact substances,Specialty list,0
+Substances_in_contact_with_food,Indirect additives food contact (10/2018),U.S. FDA list of Indirect Additives used in Food Contact Substances; presence of a substance in this list indicates that only certain intended uses and use conditions are authorized by FDA regulations (version of list updated 10/4/2018),Specialty list,0
+Food_supplement,supplements,"supplements for human consumption, includes prebiotics, probiotics, and vitamins",Foods & Agriculture,0
+Furniture,Furniture and Furnishings,"Items used to furnish a home or workplace, e.g. tables, chairs, sofa, outdoor patio furniture, sofa cover, hammock, mattress, area rug",PUC - article,0
+General_consumer_product,consumer_product,"Indicated as related to, or in, consumer products, but with no more specific information designating product category",General use,0
+General_consumer_product,Other direct contact consumer goods,"Misc. consumer goods likely to have direct contact with the user (e.g. sports equipment, hand-held non-electric tools, jewelry, clothing, jackets, bags/luggage/purses, and other apparel, blankets and sheets, newspapers, adult diapers, feminine hygiene products, pencils and writing implements",PUC - article,0
+General_consumer_product,Other indirect contact consumer goods,"'Misc. consumer goods likely to have direct contact with the user (e.g. sports equipment, hand-held non-electric tools, jewelry, clothing, jackets, bags/luggage/purses, and other apparel, blankets and sheets, newspapers, adult diapers, feminine hygiene products, pencils and writing implements",PUC - article,0
+General_consumer_product,Substances in Products - Canada (4/2014),"Substances in products regulated under the Canadian Food and Drugs Act (F&DA) that were in Commerce between January 1, 1987 and September 13, 2001 (list updated 4/24/2014)",Specialty list,0
+Groundwater,ground_water,"of, found in, or related to ground water",Media,0
+Inert_ingredient_in_products,inert_ingredient,,Modifiers,0
+Labeled_for_nonfood_use,non_food_use,"chemicals specifically designated as not for food use (e.g., pesticides approved for non-food use)",Modifiers,0
+Occupational_products,occupational,relating to a job or profession,Modifiers,0
+Occupational_products,Medical/dental,"Medical and dental supplies and equipment, e.g. medical equipment used in a hospital or doctor's office setting, at home (e.g. wheelchairs, colostomy bag). Includes clothing and personal protective equipment used in medical settings (e.g. scrubs, face masks, gowns, gloves)",PUC - industrial,0
+Occupational_products,Specialty occupational products,"Specialty products used in a specific occupational setting, by members of that occupation (e.g. firefighting foam, metal working fluids, products used in portable toilets)",PUC - industrial,0
+Home_outdoor_cleaning,Landscape/Yard - cleaner,"products used to clean  hard surfaces outside of the  home including decks, driveways, and external walls; includes products used as part of a mechanical cleaning system (e.g. solutions for pressure sprayers)",PUC - formulation,0
+Personal_care,Personal care,General personal care products which can not be assigned to a more refined category,PUC - formulation,0
+Personal_care,Personal care - body adhesive,adhesive products for attaching clothing or accessories to skin,PUC - formulation,0
+Personal_care,Personal care - body hygiene - body wash,"body cleaners, washes, shower gels",PUC - formulation,0
+Personal_care,Personal care - body hygiene - feminine hygiene,Feminine hygiene products such as vaginal washes,PUC - formulation,0
+Personal_care,Personal care - body hygiene - hand soap,liquid hand soaps,PUC - formulation,0
+Personal_care,Personal care - body oil,lipophilic producs applied to skin (excluding baby oils),PUC - formulation,0
+Personal_care,Personal care - dental care,Personal dental care products that can not be assigned to a more refined category,PUC - formulation,0
+Personal_care,Personal care - dental care - toothpaste,toothpastes and dentrifices,PUC - formulation,0
+Personal_care,Personal care - deodorant,deodorants and antiperspirants,PUC - formulation,0
+Personal_care,Personal care - fragrance,"fragrances, colognes, and perfumes",PUC - formulation,0
+Personal_care,Personal care - general moisturizing - hand/body lotion,products specifically marketed for application to hands or body to moisturize or improve skin characteristics (excluding baby lotion),PUC - formulation,0
+Personal_care,Personal care - hair coloring,general hair coloring products which can not be classified into a more refined category,PUC - formulation,0
+Personal_care,Personal care - hair coloring - hair color - permanent,"hair colors and dyes characterized as permanent, excludes dyes intended for use by professionals",PUC - formulation,0
+Personal_care,Personal care - hair coloring - hair color - professional,hair colors and dyes characterized as for professional use,PUC - formulation,0
+Personal_care,Personal care - hair styling and care - hair conditioner,rinse-out everyday hair conditioners (excluding combo shampoo/conditioner products),PUC - formulation,0
+Personal_care,Personal care - hair styling and care - shampoo,"shampoos, including dual shampoo/conditioner products",PUC - formulation,0
+Personal_care,Personal care - hair styling and care - shampoo-dandruff,"shampoos, including dual shampoo/conditioner products for treatment of dandruff",PUC - formulation,0
+Personal_care,Personal care - liniment,products for treatment of muscle or joint pain,PUC - formulation,0
+Personal_care,Personal care - make-up and related,make-up or cosmetic products which do not fit into a more refined category,PUC - formulation,0
+Personal_care,Personal care - make-up and related - eye liner,eye liners or brow coloring products,PUC - formulation,0
+Personal_care,Personal care - make-up and related - toner,face and skin toners and astringents excluding eye related products,PUC - formulation,0
+Personal_care,Personal care - nails,products for nail or cuticle treatment or decoration,PUC - formulation,0
+Personal_care,Personal care - nails - nail adhesive,adhesives for repairing fingernails or attaching artificial nails,PUC - formulation,0
+Personal_care,Personal care - nails - nail polish,"clear or colored nail enamels, polishes, basecoats, topcoats, and other acrylic coatings",PUC - formulation,0
+Personal_care,Personal care - sexual wellness,"sexual wellness products, including personal lubricants",PUC - formulation,0
+Personal_care,Personal care - specialized bath products - bath salts,"solid or powdered products added to bathwater including bath salts, soaks, and fizzes",PUC - formulation,0
+Personal_care,Personal care - specialized bath products - bubble bath,"products added to bath water to create bubbles, may provide cleaning, fragrance, or improve skin characteristics (including bubble bath marketed to babies or children)",PUC - formulation,0
+Personal_care,Personal care - sunscreen,products applied to the skin to block harmful effects of sunlight,PUC - formulation,0
+Personal_care,Substances in PCP - Canada (4/2014),"Substances in cosmetics and personal care products regulated under the Canadian Food and Drugs Act (F&DA) that were in commerce between January 1, 1987 and September 13, 2001; list updated 4/24/2014)",Specialty list,0
+Pesticides,Pesticides,"Relating to pesticides or pesticide usage. Includes specific types of pesticides, e.g. insecticides,  herbicides, fungicides, and fumigants; also includes general biocides",PUC - formulation,0
+Petrochemicals,fossil_fuelds,"coal, petroleum, natural gas, and heavy oils",General use,0
+Petrochemicals,fracking,chemicals related to or used during the fracking process,General use,0
+Pharmaceutical,pharmaceutical,"includes, medicinal and illicit drugs, biologics, and the salts, esters, and hydrates of pharmaceuticals, includes precursors to pharmaceuticals, additives, and pharmaceuticals for animal/veterinary use",General use,0
+Product_manufacturing,manufacturing,,Manufacturing,0
+Product_manufacturing,plastic_additive,additives used in plastics,Manufacturing,0
+Product_manufacturing,Raw materials,Pure chemicals or ingredients,PUC - industrial,0
+Soil,soil,"of, found in, or related to sediment or soil",Media,0
+Surface_water,surface_water,"of, in, or related to surface water",Media,0
+Vehicles,Road vehicles,"Road vehicles for passengers and goods (e.g. cars, trucks, vans)",PUC - article,0
+Vehicles,Vehicle - car interior,"formulation products used on the interior of cars, which do not fit into a more refined category",PUC - formulation,0
+Vehicles,Vehicle - car interior - auto air freshener,products for masking odors or adding fragrance to car cabin air,PUC - formulation,0
+Vehicles,Vehicle - car surface treatment,treatments for the surfaces/body of vehicles that can not be otherwise categorized,PUC - formulation,0
+Vehicles,Vehicle - car surface treatment - body cleaner,"cleaners, shampoos, and washes for auto body exterior (not including wax products or combo wash/wax products)",PUC - formulation,0
+Vehicles,Vehicle - car surface treatment - body wax,"auto body waxes and coatings, excluding combo wash/wax products",PUC - formulation,0
+Wastewater,wastewater,"of, in, or related to wastewater, includes sludge and biosolids",Media,0
+,agricultural,"general term pertaining to agricultural practices, including the raising and farming of animals and growing of crops",Foods & Agriculture,2
+,organic,for food or crops that are specified as being grown or produced organically,Foods & Agriculture,2
+,tobacco,,Foods & Agriculture,1
+,radioactive,compounds identified as being radioactive,General use,1
+,Australia,Sources specific to Australia,Location,2
+,Canada,Sources specific to Canada,Location,2
+,Europe,Sources specific to a European country or subset of countries,Location,2
+,Israel,Sources specific to Israel,Location,2
+,New Zealand,Sources specific to New Zealand,Location,2
+,Southeast Asia,"Sources specific to ASEAN countries, governing body for various Southeast Asian countries",Location,2
+,water,"found in water of a nondescript or unspecified type (e.g. not ground water, surface water, etc)",Media,2
+,applied,"modifier, e.g. for a pesticide applied to a particular crop (as compared to a pesticide being detected in that crop or food product)",Modifiers,2
+,detected,chemicals measured or identified in environmental media or products,Modifiers,2
+,nondetect,"Chemicals that were tested for but not found in media or products. May include concentrations below the limit of detection, and instances where a measurement was not reported due to issues with measuring equipment, QA concerns, or other reasons.",Modifiers,1
+,prohibited,noted chemical is prohibited from specified use,Modifiers,1
+,residue,"nonfood residues, typically from drugs or pesticides",Modifiers,2
+,restricted,noted chemical is restricted from specified use,Modifiers,1
+,Flavornet,substances on the Flavornet list of compounds found in the human odor sphere,Specialty list,1
+,IFRA Transparency,substances on the International Fragrance Association's ordered register of all fragrance ingredients used in consumer goods by the fragrance industry's customers worldwide,Specialty list,2
+,MN Chemical Screening,applied to all data sources used in MN DoH chemical screening proof of concept,Specialty list,2
+,OEHHA Proposition 65 (3/2019),California Office of Environmental Health Hazard Assessment Proposition 65; version of list updated 3/18/2019,Specialty list,1
+,SCIL (9/2019),present on the Safer Chemicals Ingredients List (SCIL) (https://www.epa.gov/saferchoice/safer-ingredients); version of list updated 9/14/2019,Specialty list,1
+,WA Children's Safe Product Act (4/2020),present on the WA State Department of Ecology - Chemicals of High Concern to Children Reporting List (version of list pulled 4/24/2020),Specialty list,1
