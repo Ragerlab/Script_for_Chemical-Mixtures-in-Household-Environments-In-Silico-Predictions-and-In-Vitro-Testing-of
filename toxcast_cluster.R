@@ -15,7 +15,7 @@ setwd("/Users/lkoval/IEHS Dropbox/Rager Lab/Lauren_Koval/LK_Lab_Notebook/Project
 
 #read in the chemical/ exposure source category presence/absence dataframe and DTXSID/ name mapping
 chems <- read_csv("output/presence_absence_binary_df.csv")
-name_ref <- read_csv("output/ChemExpodb_name_DTXSID_ref.csv")
+name_ref <- read_csv("output/name_dtxsid_ref.csv")
 
 
 #merge in chemical name by DTXSID to the presence/absence dataframe
