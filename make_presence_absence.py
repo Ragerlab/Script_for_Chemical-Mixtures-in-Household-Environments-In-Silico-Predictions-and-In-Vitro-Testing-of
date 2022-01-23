@@ -3,8 +3,6 @@ import pandas as pd
 import numpy as np
 import os
 
-#set working directory
-os.chdir("/Users/lkoval/IEHS Dropbox/Rager Lab/Lauren_Koval/LK_Lab_Notebook/Projects/ToxCast_Household_Chemicals/Experiment_1")
 
 
 #read in CPCat DTXSID/keyword sets
