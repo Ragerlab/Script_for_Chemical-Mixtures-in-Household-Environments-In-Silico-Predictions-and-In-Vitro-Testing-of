@@ -10,8 +10,6 @@ library(pheatmap)
 library(RColorBrewer)
 library(janitor)
 
-#set working directory
-setwd("/Users/lkoval/IEHS Dropbox/Rager Lab/Lauren_Koval/LK_Lab_Notebook/Projects/ToxCast_Household_Chemicals/Experiment_1")
 
 #read in the chemical/ exposure source category presence/absence dataframe and DTXSID/ name mapping
 chems <- read_csv("output/presence_absence_binary_df.csv")
