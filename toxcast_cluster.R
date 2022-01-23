@@ -150,6 +150,15 @@ pheatmap(as.matrix(chems_reduced), main="148 ToxCast Chemicals",
  
  
 
+# Make heatmap for just cluster 5
+c5 <- clust_df %>% filter(cluster==5)
+c5_names <- c5$true_chemname
+c5 <- c5 %>% select(!c(DTXSID,cluster, true_chemname))
+ 
+pheatmap(as.matrix(c5), main="Cluster 5",
+         cluster_rows=FALSE, cluster_cols = FALSE, show_rownames = TRUE,
+         legend = FALSE, cellheight = 15, cellwidth = 20, fontsize_co1 = 5, fontsize_row = 5,  angle_col = 45, gaps_col = sepcols,
+         labels_row=c5_names,filename = "cluster_5_heatmap.png", height = 20, width = 16)
  
  
  
