@@ -13,7 +13,7 @@ kw_sets=pd.read_csv("input/factotum_listPresence_092320_updated_chemnames_020621
 #make reference table of CPCat DTXSID/true chemical name pairs
 name_dtxsid=kw_sets[["DTXSID","true_chemname"]]
 name_dtxsid.drop_duplicates(inplace=True)
-name_dtxsid.to_csv("output/ChemExpodb_name_dtxsid_ref.csv", index=False)
+name_dtxsid.to_csv("output/name_dtxsid_ref.csv", index=False)
 
 
 #read in keyword to exposure source category mapping
