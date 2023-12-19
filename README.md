@@ -1,5 +1,8 @@
 ## Script_for_Chemical-Mixtures-in-Household-Environments-In-Silico-Predictions-and-In-Vitro-Testing-of-Potential-Joint-Toxicities-in-Human-Liver-Cells
-Script associated with the manuscript titled 'Chemical Mixtures in Household Environments: In Silico Predictions and In Vitro Testing of Potential Joint Toxicities in Human Liver Cells' in preparation for submission.
+This script was generated to support the analysis and associated figures contained within the manuscript:
+
++ Carberry CK, Turla T, Koval LE, Hartwell H, Fry RC, Rager JE. Chemical Mixtures in Household Environments: In Silico Predictions and In Vitro Testing of Potential Joint Action on PPARγ in Human Liver Cells. Toxics. 2022 Apr 19;10(5):199. doi: https://doi.org/10.3390/toxics10050199. PMID: 35622613. PMCID: PMC9146550.
+
 
 ![Cluster5_HeatMapImage](https://user-images.githubusercontent.com/72747901/146393635-815c7716-b7f1-4052-9e00-f4a14a46e9bc.png)
 
